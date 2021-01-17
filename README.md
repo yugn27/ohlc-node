@@ -33,7 +33,7 @@ var ohlc = require('ohlc')
 <script src="https://cdn.jsdelivr.net/gh/mick-whats/ohlc-node@2.0.1/dist/ohlc.js"></script>
 ```
 
-## sumple data
+## sample data
 
 ```data.json
 arrayData = [
